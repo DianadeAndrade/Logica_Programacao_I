@@ -1,2 +1,2 @@
 # Logica_Programacao_I
- Exercicio Alura 
+ Os primeiros programas com Javascript e HTML.
